@@ -28,20 +28,19 @@ Além disso, o projeto teve como objetivo responder perguntas de negócio, trans
 
 ---
 
-## Dashboard
+## Dashboard 
 
 ### Visão Geral
 
-![Visão Geral](COLOQUE_O_LINK_DA_IMAGEM_1)
+![Visão Geral](https://raw.githubusercontent.com/kauanpedrosa2005/analise-de-dados-Google-Merchandise-Store/main/analise-de-dados-Google%20Merchandise%20Store/imagens/Dashboard-google-pagina%201..png)
 
 ### Desempenho Comercial
 
-![Desempenho Comercial](COLOQUE_O_LINK_DA_IMAGEM_2)
+![Desempenho Comercial](https://raw.githubusercontent.com/kauanpedrosa2005/analise-de-dados-Google-Merchandise-Store/main/analise-de-dados-Google%20Merchandise%20Store/imagens/Dashboard-google-pagina%202..png)
 
 ### Perguntas de Negócio
 
-![Perguntas de Negócio](COLOQUE_O_LINK_DA_IMAGEM_3)
-
+![Perguntas de Negócio](https://raw.githubusercontent.com/kauanpedrosa2005/analise-de-dados-Google-Merchandise-Store/main/analise-de-dados-Google%20Merchandise%20Store/imagens/Dashboard-google-pagina%203..png)
 ---
 
 ## Principais Resultados
