@@ -45,7 +45,7 @@ Além disso, o projeto teve como objetivo responder perguntas de negócio, trans
 
 ## Principais Resultados
 
-- Foram analisados aproximadamente **751 mil eventos** e **270 mil usuários**.
+- Foram analisados aproximadamente **759 mil eventos** e **270 mil usuários**.
 - A categoria **Vestuário** apresentou o maior volume de compras.
 - O **Desktop** foi o dispositivo com maior participação nas compras.
 - Os **Estados Unidos** concentraram a maior receita do período analisado.
