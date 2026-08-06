@@ -69,4 +69,4 @@ Diferentemente de outros projetos do portfólio, a solução foi construída **s
 **Kauan Alves Pedrosa**
 
 - GitHub: https://github.com/kauanpedrosa2005
-- LinkedIn: www.linkedin.com/in/kauan-alves-a5aba83b6
+- LinkedIn: www.linkedin.com/in/kauan-pedrosa-a5aba83b6
